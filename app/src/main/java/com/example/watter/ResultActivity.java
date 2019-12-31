@@ -24,4 +24,3 @@ public class ResultActivity extends AppCompatActivity {
         feeText.setText(n + "");
     }
 }
-//
